@@ -8,18 +8,15 @@
 </p>
 <!-- 🌐 Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/eneskocaahmet/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-  </a>
-  <a href="mailto:eneskocaahmet0@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+  <a href="https://www.linkedin.com/in/eneskocaahmet" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:eneskocaahmet0@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
 </p>
 
 
-
-
----
 
 # About Me
 
