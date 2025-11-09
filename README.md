@@ -9,12 +9,15 @@
 <!-- 🌐 Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/eneskocaahmet/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
   <a href="mailto:eneskocaahmet0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>
 </p>
+
+
+
 
 ---
 
@@ -39,8 +42,18 @@
 - 🌍 Passionate about continuous learning and remote collaboration  
 - 🧠 Focused on clean code, scalability, and great user experiences  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enes_kocaahmet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eneskocaahmet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eneskocaahmet0@gmail.com) 
+## 🌐 Socials
+<p>
+  <a href="https://www.instagram.com/enes_kocaahmet" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eneskocaahmet" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eneskocaahmet0@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack  
 
@@ -49,11 +62,11 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-# 🔥 Streak Stats:
+# 🔥 Streak Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Eneskchmt&theme=github_dark&hide_border=false)<br/>
-# 💻 Top Languages:
+# 💻 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
