@@ -21,7 +21,7 @@
 
 ---
 
-# About Me:
+# About Me
 
 💻 I'm a passionate **Full Stack Developer** who loves creating modern, responsive, and user-friendly web applications.  
 🚀 I enjoy working with **React**, **React Native**, **Node.js**, **Java**, and **Spring Boot** to bring ideas to life.  
