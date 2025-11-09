@@ -6,16 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Java+%7C+Spring+Boot+%7C+PostgreSQL;Clean+Code+Enthusiast+💻;Lifelong+Learner+🚀" />
 </p>
-<!-- 🌐 Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/eneskocaahmet" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:eneskocaahmet0@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
-  </a>
-</p>
-
 
 
 # About Me
@@ -39,20 +29,14 @@
 - 🌍 Passionate about continuous learning and remote collaboration  
 - 🧠 Focused on clean code, scalability, and great user experiences  
 
-## 🌐 Socials
+# 🌐 Socials
 <p>
-  <a href="https://www.instagram.com/enes_kocaahmet" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
   <a href="https://www.linkedin.com/in/eneskocaahmet" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eneskocaahmet0@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
-  </a>
 </p>
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
