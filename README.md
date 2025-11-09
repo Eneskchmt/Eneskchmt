@@ -34,6 +34,9 @@
   <a href="https://www.linkedin.com/in/eneskocaahmet" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/enes_kocaahmet" target="_blank"> 
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/> 
+  </a>
 </p>
 
 # 💻 Tech Stack  
@@ -50,7 +53,4 @@
 # 💻 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Eneskchmt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
