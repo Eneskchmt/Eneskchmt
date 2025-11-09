@@ -36,7 +36,7 @@
   </a>
 </p>
 
-# 🛠️ Tech Stack  
+# 💻 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
