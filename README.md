@@ -47,14 +47,9 @@
 
 
 # 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?user=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true) <br/> 
+![](https://github-readme-stats.vercel.app/api?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true) <br/> 
 # 🔥 Streak Stats 
 ![](https://nirzak-streak-stats.vercel.app/?user=Eneskchmt&theme=github_dark&hide_border=false) <br/> 
-# 💻 Top Languages 
-![](https://github-readme-stats.vercel.app/api/top-langs/?user=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true) 
-
 # 💻 Top Languages 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eneskchmt&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
