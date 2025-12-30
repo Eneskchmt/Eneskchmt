@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Node.js;Java+%7C+Spring+Boot+%7C+PostgreSQL;Clean+Code+Enthusiast;Lifelong+Learner" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -17,14 +16,12 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - 🎯 Focused on clean code, scalability, and best engineering practices
 - 🌍 Open to remote collaboration and continuous learning
 
----
 
 ## 🌱 Currently Learning
 - Advanced **React** and **Next.js**
 - Mobile application development with **React Native**
 - Backend architecture and performance optimization with **Node.js** and **Spring Boot**
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -32,7 +29,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - **Backend:** Node.js, Java, Spring Boot, PostgreSQL  
 - **Other:** Git, GitHub, REST APIs, Tailwind CSS, Agile / Scrum  
 
----
+
 
 ## 🎓 Education & Training
 
@@ -42,7 +39,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
   - React Native  
   - Node.js Backend  
 
----
+
 
 ## 🧠 Engineering Practices
 - Clean Code & SOLID principles
@@ -51,20 +48,20 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - State management best practices
 - Agile / Scrum workflows
 
----
+
 
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
 </p>
----
+
 
 ## 🔥 GitHub Streak
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Eneskchmt&theme=github_dark&hide_border=false)
 
----
+
 
 ## 🌐 Socials
 
@@ -77,10 +74,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
   </a>
 </p>
 
----
 
-## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/eneskocaahmet  
-- Email: eneskocaahmet@gmail.com  
 
----
+
+
