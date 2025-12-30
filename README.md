@@ -30,7 +30,6 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - **Other:** Git, GitHub, REST APIs, Tailwind CSS, Agile / Scrum  
 
 
-
 ## 🎓 Education & Training
 
 - 🎓 **Computer Engineering** – Karabük University  
@@ -38,8 +37,6 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
   - React Front-end  
   - React Native  
   - Node.js Backend  
-
-
 
 ## 🧠 Engineering Practices
 - Clean Code & SOLID principles
@@ -49,18 +46,11 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - Agile / Scrum workflows
 
 
-
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
 </p>
-
-
-## 🔥 GitHub Streak
-
-![](https://nirzak-streak-stats.vercel.app/?user=Eneskchmt&theme=github_dark&hide_border=false)
-
 
 
 ## 🌐 Socials
@@ -75,6 +65,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 </p>
 
 
+## 🔥 GitHub Streak
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=Eneskchmt&theme=github_dark&hide_border=false)
 
