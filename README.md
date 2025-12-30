@@ -44,33 +44,6 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Full Stack Movie Application
-- React, Node.js, REST API
-- Authentication & Authorization
-- CRUD Operations
-- Responsive UI
-- Clean Code & Component-based Architecture  
-🔗 GitHub Repo: https://github.com/Eneskchmt/PROJECT_NAME
-
-### 🛒 E-Commerce Platform
-- React, PostgreSQL, RESTful API
-- Product & User Management
-- Admin Dashboard
-- Scalable and maintainable architecture  
-🔗 GitHub Repo: https://github.com/Eneskchmt/PROJECT_NAME
-
----
-
-## 🧩 What I'm Currently Working On
-- Building scalable and reusable React components
-- Developing RESTful APIs with Node.js
-- Improving application performance and code quality
-- Exploring Next.js for production-ready applications
-
----
-
 ## 🧠 Engineering Practices
 - Clean Code & SOLID principles
 - RESTful API design
@@ -85,15 +58,6 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Eneskchmt&show_icons=true&theme=github_dark&hide_border=false&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eneskchmt&layout=compact&theme=github_dark)
-
 ---
 
 ## 🔥 GitHub Streak
@@ -120,5 +84,3 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 - Email: eneskocaahmet@gmail.com  
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Eneskchmt&color=blue)
